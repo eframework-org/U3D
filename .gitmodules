@@ -1,32 +1,32 @@
-[submodule "Packages/EDIT"]
-	path = Packages/EDIT
+[submodule "U3D.EDIT"]
+	path = U3D.EDIT
 	url = https://github.com/eframework-org/U3D.EDIT.git
 	branch = master
-[submodule "Packages/FGUI"]
-	path = Packages/FGUI
+[submodule "U3D.FGUI"]
+	path = U3D.FGUI
 	url = https://github.com/eframework-org/U3D.FGUI.git
 	branch = master
-[submodule "Packages/MSV"]
-	path = Packages/MSV
+[submodule "U3D.MSV"]
+	path = U3D.MSV
 	url = https://github.com/eframework-org/U3D.MSV.git
 	branch = master
-[submodule "Packages/PUER"]
-	path = Packages/PUER
+[submodule "U3D.PUER"]
+	path = U3D.PUER
 	url = https://github.com/eframework-org/U3D.PUER.git
 	branch = master
-[submodule "Packages/RES"]
-	path = Packages/RES
+[submodule "U3D.RES"]
+	path = U3D.RES
 	url = https://github.com/eframework-org/U3D.RES.git
 	branch = master
-[submodule "Packages/UGUI"]
-	path = Packages/UGUI
+[submodule "U3D.UGUI"]
+	path = U3D.UGUI
 	url = https://github.com/eframework-org/U3D.UGUI.git
 	branch = master
-[submodule "Packages/UPD"]
-	path = Packages/UPD
+[submodule "U3D.UPD"]
+	path = U3D.UPD
 	url = https://github.com/eframework-org/U3D.UPD.git
 	branch = master
-[submodule "Packages/UTIL"]
-	path = Packages/UTIL
+[submodule "U3D.UTIL"]
+	path = U3D.UTIL
 	url = https://github.com/eframework-org/U3D.UTIL.git
 	branch = master
